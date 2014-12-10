@@ -6,3 +6,4 @@ emotions
 |  Emotion   | ASCII            |
 |:-----------|:-----------------|
 | Table-flip | `(╯°□°）╯︵ ┻━┻` |
+| Shrug      | ¯\_(ツ)_/¯ |
