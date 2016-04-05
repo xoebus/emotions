@@ -8,3 +8,4 @@ emotions
 | Table-flip   | `(╯°□°）╯︵ ┻━┻`   |
 | Table-unflip | `┬─┬ ノ( ゜-゜ノ)` |
 | Shrug        | `¯\_(ツ)_/¯`       |
+| Angry        | `ヽ(´ー｀)ノ`      |
